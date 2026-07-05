@@ -276,13 +276,6 @@ server), those are **simulated** with simple in-memory Python structures
 feature** (analysis, risk detection, summarization, semantic search/RAG,
 reports, dashboard) is fully implemented and functional.
 
-## 📁 Files in this Submission
-- `contract_risk_analyzer.py` — full source code (cell-based for Colab)
-- `README.md` — this file
-- `summary.txt` — short plain-text project summary
-- `sample_documents/` — add 1–2 sample contracts before zipping
-- Screenshots — add before zipping for submission
-
 ## 💡 Possible Bonus Additions
 - OCR for scanned PDF contracts (`pytesseract`)
 - Email report delivery
